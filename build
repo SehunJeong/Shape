@@ -1,0 +1,2 @@
+#!/bin/bash
+time ocamlfind ocamlopt -o main -linkpkg -package batteries shape.ml
